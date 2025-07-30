@@ -1,7 +1,7 @@
 # Angular-TaskManagerApp
 
  TaskManagerApp - Simple Angular Task List
- Built with Angular using Angular CLI (v20.2.15)
+ Built with Angular using Angular CLI (v22.2.15)
 
  Purpose: A basic task manager to add and view tasks
 
